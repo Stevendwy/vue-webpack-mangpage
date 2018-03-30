@@ -2,6 +2,8 @@
 >学习于：https://github.com/cnu4/Webpack-Vue-MultiplePage
 >仅供学习使用
 
+<img src="./Public/img/imgbg.png" alt="">
+
 ## 前言
 
 webpack + vue 能很好的完成单页面应用的开发，官方也提供了很多例子和教程。但使用 webpack 能不能用到多页面项目中，同时又能使用 vue 进行模块组件化开发呢？
